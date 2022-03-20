@@ -1,0 +1,16 @@
+Pagina Oficial de Express: expressjs.com
+
+Pasos Importantes:
+
+Primero: crear index.js
+Segundo: npm init -y
+Tercero: npm install express
+Cuarto: npm i nodemon -D
+Quinto: npm i morgan
+Sexto: npm install ejs
+
+INVESTIGAR:
+Motores de Plantillas: pug, handlerbast, ejs
+Integracion de Base de Datos: expressjs.com -> database integration
+ORM: Sequelize (para bases de datos SQL), Moongose (para bases de datos NoSQL)
+FRAMEWORKS DE NODEJS: hapijs.com, adonisjs.com, sailsjs.com, koajs.com, krakenjs.com 
